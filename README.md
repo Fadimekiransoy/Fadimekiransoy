@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Fadimekiransoy
-- 👀 I’m interested Ain ...AR/VR gözlükler için simülasyonlar  geliştiriyorum
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Merhaba ben @Fadimekiransoy
+- 👀 AR/VR gözlükler için simülasyonlar geliştiriyorum
+- 🌱 Unity ve C# öğreniyorum
+- 💞️ AR/VR gözlüklere ilgin varsa bana ulaşabilirsin
+- 📫 [İnstagram](https://www.instagram.com/coderkiztr/)
 
 <!---
 Fadimekiransoy/Fadimekiransoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
